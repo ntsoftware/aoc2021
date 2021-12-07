@@ -3,7 +3,7 @@ day     | part1     | part2     | total
 4       | 39min     | 21min     | 1h
 5       | 21min     | 35min     | 56min
 6       |           |           |
-7       |           |           |
+7       | 9min      | 4min      | 13min
 8       |           |           |
 9       |           |           |
 10      |           |           |
